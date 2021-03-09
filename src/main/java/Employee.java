@@ -1,3 +1,5 @@
+package main.java;
+
 /**
  * Initial employee class
  */
